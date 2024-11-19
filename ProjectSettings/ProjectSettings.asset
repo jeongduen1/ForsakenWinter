@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 4e5fd2803a2909a44b091c6227fa6b21
+  productGUID: 33eb9fd2bc640274d9ddef9d8d4194c0
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Frost
+  productName: Forsaken Winter
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -852,14 +852,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Frost
+  metroPackageName: Forsaken Winter
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Frost
+  metroApplicationDescription: Forsaken Winter
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -930,10 +930,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 05641e44-1b3e-44a4-9c72-596a440d92db
+  cloudProjectId: addc65a8-81b0-4bc5-a50a-04ce26e2f55d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Frost
+  projectName: Forsaken Winter
   organizationId: sanduen1
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
